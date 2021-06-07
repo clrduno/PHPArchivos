@@ -1,0 +1,3 @@
+Bernardo, Pineda, bernardo@correo.com
+Francisco, Granados, francisco@correo.com
+Marco, Mérida, marco@correo.com
